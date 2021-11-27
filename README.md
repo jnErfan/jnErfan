@@ -1,5 +1,6 @@
 
-![Banner](https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg)
+<!-- ![Banner](https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg) -->
+<img width="100% src="https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg" alt="" />
 
 <h1 align="center" style="">Assalamu Alaikum <br/> I'M Jannatune Naem Erfan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
