@@ -8,6 +8,9 @@
 <br/>
 <br/>
 
+
+ <img align="right" alt="code" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnerfan" alt="jnerfan" /></a> </p>
 
 <br/>
