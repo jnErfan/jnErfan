@@ -76,6 +76,10 @@
 
 <br/>
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<br/>
+
 ## ❤ Views And Followers
 <a style="margin-right:15px" href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jnerfan">
