@@ -75,8 +75,8 @@
  <a href="https://github.com/jnerfan/github-readme-activity-graph"><img alt="jnerfan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jnerfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)</p>
 
 <br/>
 
