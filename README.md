@@ -7,12 +7,6 @@
 
 <br/>
 
-
- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnerfan" alt="jnerfan" /></a> </p>
-
-<br/>
-
 ## 🙋‍♂️ About Me
 
 - 💬 Ask Me About [Linkedin](https://www.linkedin.com/in/j-n-erfan-8368b0216)
