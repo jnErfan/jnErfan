@@ -16,11 +16,10 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 📫 I’M Currently Studying On [Programing Hero](https://web.programming-hero.com/)
-- 🌱 I’M Currently Learning **Data Structures And Algorithms.**
+
 - 💬 Ask Me About [Linkedin](https://www.linkedin.com/in/j-n-erfan-8368b0216)
 - 🔭 How To Reach Me **j.n.erfan420@gmail.com**
-- 🎯 2021 Goals: **Remote Web Developer Job**
+- 🎯 2021 Goals: **Senior Web Developer**
 - ⚡ Fun Fact I'm Currently Learning **What I Need** 🤣
 - 💻 Most used code `console.log()`
 
