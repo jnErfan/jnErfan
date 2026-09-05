@@ -2,7 +2,7 @@
 <!-- ![Banner](https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg) -->
 <p align="center"><img  style="margin-left:50%" src="https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg" alt="jnerfan1" /></p>
 
-<h1 align="center" style="">Assalamu Alaikum <br/> I'm ERFAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center" style="">Assalamualaikum <br/> I'm ERFAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 
 <br/>
@@ -28,7 +28,6 @@
 </p>
 
 <br/>
-<br/>
 
 <h3 align="left">Languages And Tools:</h3>
 <br/>
@@ -51,7 +50,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jnerfan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="jnerfan" /></p>
 
-<br/>
 <br/>
 
 
