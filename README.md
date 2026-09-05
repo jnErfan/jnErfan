@@ -2,15 +2,13 @@
 <!-- ![Banner](https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg) -->
 <p align="center"><img  style="margin-left:50%" src="https://i.ibb.co/S7wfGXF/JANNATUNE-NAEM-ERFAN-1.jpg" alt="jnerfan1" /></p>
 
-<h1 align="center" style="">Assalamu Alaikum <br/> I'M Jannatune Naem Erfan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center" style="">Assalamu Alaikum <br/> I'm ERFAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 
 <br/>
-<br/>
 
 
- <img align="right" alt="code" width="200" height="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
-
+ 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jnerfan" alt="jnerfan" /></a> </p>
 
 <br/>
