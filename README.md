@@ -18,7 +18,7 @@
 ## 🙋‍♂️ About Me
 
 - 💬 Ask Me About [Linkedin](https://www.linkedin.com/in/j-n-erfan-8368b0216)
-- 🔭 How To Reach Me **j.n.erfan420@gmail.com**
+- 🔭 How To Reach Me **erfan.faq@gmail.com**
 - 🎯 2021 Goals: **Senior Web Developer**
 - ⚡ Fun Fact I'm Currently Learning **What I Need** 🤣
 - 💻 Most used code `console.log()`
@@ -65,10 +65,6 @@
 
 ## 📊 My Github States
 
-
-<br/>
- 
- <a href="https://github.com/jnerfan/github-readme-activity-graph"><img alt="jnerfan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jnerfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
